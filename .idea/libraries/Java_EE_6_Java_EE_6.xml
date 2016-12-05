@@ -1,0 +1,28 @@
+<component name="libraryTable">
+  <library name="Java EE 6-Java EE 6">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/javax.ejb.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javax.servlet.jsp.jstl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javax.jms.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javax.servlet.jsp.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javax.resource.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javax.persistence.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javax.servlet.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javax.annotation.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javax.transaction.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib/javax.ejb.jar!/" />
+      <root url="jar://D:/apache-tomcat-8.0.37/lib/servlet-api.jar!/" />
+      <root url="file://D:/apache-tomcat-8.0.39-src/java" />
+      <root url="file://D:/apache-tomcat-8.0.39-src/modules/jdbc-pool/src/main/java" />
+      <root url="file://D:/apache-tomcat-8.0.39-src/modules/jdbc-pool/src/test/java" />
+      <root url="file://D:/apache-tomcat-8.0.39-src/test" />
+      <root url="file://D:/apache-tomcat-8.0.39-src/webapps/docs/appdev/sample/src" />
+      <root url="file://D:/apache-tomcat-8.0.39-src/webapps/examples/WEB-INF/classes" />
+      <root url="file://D:/apache-tomcat-8.0.39-src/webapps/examples/WEB-INF/jsp/applet" />
+      <root url="file://D:/apache-tomcat-8.0.39-src/webapps/examples/jsp/plugin/applet" />
+    </SOURCES>
+  </library>
+</component>
